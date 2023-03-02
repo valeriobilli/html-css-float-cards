@@ -14,7 +14,8 @@ h1, .name{
 h1 {
     text-align: center;
     margin-bottom: 70px;
-    font-weight: 1000;
+    color: #e53170;
+    font-size: 36px;
 }
 
 #intro {
@@ -34,8 +35,22 @@ img {
     margin-right: 40px;
     margin-bottom: 60px;
     float: left;
-    background-color: black;
+    background-color: #0f0e17;
     color: white;
+}
+
+.name {
+    margin-top: 18px;
+    font-size: 20px;
+    
+}
+
+.email {
+    color: #48bde0;
+}
+
+p {
+    margin: 8px;
 }
 
 
