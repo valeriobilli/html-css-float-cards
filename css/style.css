@@ -1,4 +1,16 @@
+.container {
+    max-width: 1000px;
+    margin: auto;
+}
 
+h1 {
+    text-align: center;
+    margin-bottom: 70px;
+}
+
+#intro {
+    text-align: center;
+}
 
     
    
