@@ -1,5 +1,5 @@
 .container {
-    max-width: 1000px;
+    max-width: 1400px;
     margin: auto;
 }
 
@@ -11,6 +11,24 @@ h1 {
 #intro {
     text-align: center;
 }
+
+img {
+    width: 120px;
+    height: 120px;
+    padding-right: 15px;
+    float: left;
+}
+
+.blocco {
+    width: 430px;
+    margin-right: 40px;
+    margin-bottom: 60px;
+    float: left;
+    background-color: black;
+    color: white;
+}
+
+
 
     
    
