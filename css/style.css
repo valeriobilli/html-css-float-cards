@@ -10,6 +10,7 @@ h1 {
 
 #intro {
     text-align: center;
+    margin-bottom: 60px;
 }
 
 img {
@@ -20,7 +21,7 @@ img {
 }
 
 .blocco {
-    width: 430px;
+    width: calc(33% - 40px);
     margin-right: 40px;
     margin-bottom: 60px;
     float: left;
