@@ -13,14 +13,14 @@ h1, .name{
 
 h1 {
     text-align: center;
-    margin-bottom: 70px;
+    margin-bottom: 60px;
     color: #e53170;
     font-size: 36px;
 }
 
 #intro {
     text-align: center;
-    margin-bottom: 60px;
+    margin-bottom: 50px;
 }
 
 img {
@@ -64,6 +64,11 @@ p {
     margin-right: 0px;
 }
 
+.clearfix {
+    content: '';
+    display: table;
+    clear: both;
+}
     
 
 
